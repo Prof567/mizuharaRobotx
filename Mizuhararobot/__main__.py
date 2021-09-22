@@ -28,16 +28,16 @@ You can find my list of available commands with /help.
 """
 
 
-BOT_IMG = "https://telegra.ph/file/eee3cb7efa205ca5b1262.mp4"
+BOT_IMG = ""
 
 
 
 
 HELP_STRINGS = """
-Hello I'm  mizuhara from rent a girlfriend. Rent me for your grp to have fun there.You can have a look at the following for an idea of some of \
+Hello I'm  MISS LEGEND from rent a girlfriend. Rent me for your grp to have fun there.You can have a look at the following for an idea of some of \
 the things I can help you with.
 
-*Main* commands available:[:.:](https://telegra.ph/file/8fbc5858ddd7eefe2fccf.jpg)
+*Main* commands available:[:.:]()
  • /help: PM's you this message.
  • /help <module name>: PM's you info about that module.
  • /settings:
