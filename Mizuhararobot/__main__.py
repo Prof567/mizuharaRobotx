@@ -152,16 +152,16 @@ def start(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [[
                         InlineKeyboardButton(
-                            text="➕️Add mizuhara to your group",
+                            text="➕️Add MISS LEGEND to your group",
                             url="t.me/{}?startgroup=true".format(context.bot.username))
                     ],
                     [
                         InlineKeyboardButton(
                             text="Support Chat ",
-                            url="https://t.me/chizurusupport"),
+                            url="https://t.me/MISSLEGENDSSUPPORT"),
                         InlineKeyboardButton(
                             text="📍Updates ",
-                            url="https://t.me/chizuruupdates")
+                            url="https://t.me/MISSLEGENDUPDATES")
                     ],
                     [
                         InlineKeyboardButton(
