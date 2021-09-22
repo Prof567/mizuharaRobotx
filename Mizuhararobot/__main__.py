@@ -35,7 +35,7 @@ BOT_IMG = ""
 
 HELP_STRINGS = """
 Hello I'm  MISS LEGEND from rent a girlfriend. Rent me for your grp to have fun there.You can have a look at the following for an idea of some of \
-the things I can help you with.
+the things I can help you.
 
 *Main* commands available:[:.:]()
  • /help: PM's you this message.
